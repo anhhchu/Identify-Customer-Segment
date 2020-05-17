@@ -1,5 +1,6 @@
 # Identify-Customer-Segment
-Identify Customer Segment for a Mail Order company using Kmeans Clustering analysis
+Identified characteristics of the core customer base to improve marketing strategy for a mail-order company from Germany using demographics data subset (~890k records) and the company’s customer subset (~191k records) with 85 features 
+Performed data cleaning, data transformation and K-means clustering using Python Scikitlearn and PCA 
 
 ## Motivation
 This project aims to apply **unsupervised learning techniques** to **identify segments of the population that form the core customer base for a mail-order sales company in Germany** based on 2 dataset: the demographics subset of Germany population, and the company's customer datset. 
